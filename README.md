@@ -18,6 +18,3 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
-
-3. At browser <br>
-[localhost]
