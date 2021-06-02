@@ -10,14 +10,14 @@ Several processes has been explored such as data cleaning where missing values w
 ---------------
 
 1. Install required library
-
+```
 pip install -r requirements.txt
-
+```
 
 2. At terminal
-
+```
 streamlit run app.py
-
+```
 
 3. At browser <br>
 [localhost]
